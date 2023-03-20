@@ -1,16 +1,14 @@
 .financialneeds_container {
   /* background-color: #006df7; */
-  margin-top: -10rem;
+  margin-top: -12rem;
   padding: 12rem 6rem 0 6rem;
 }
 .financial_needs {
-  color: #ffffff;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
+  color: #000000;
+  margin: 2rem 7rem 3rem 7rem;
 }
 .financial_needs h3 {
-  font-size: 3.8rem;
+  font-size: 3rem;
   font-weight: 600;
 }
 .financial_needs p {
@@ -18,10 +16,8 @@
   font-weight: 400;
   margin-top: -2rem;
 }
-.phone_image {
-    position: relative;
-    left: 12rem;
-    width: 15rem;
+.phone_container img{
+   width: 50rem;
 }
 .frame_one {
   position: relative;

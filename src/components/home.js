@@ -21,7 +21,6 @@ const Home = () => {
         </div>
         <div className="phone_container">
           <img src={womansmile} alt="iphone" />
-          
         </div>
       </div>
       <div className="customers_container">
