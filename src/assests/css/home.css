@@ -94,14 +94,14 @@
     margin-right: 1rem;
 }
 .payments {
-    margin: 5rem 7rem;
+    margin: 5rem 5.5rem;
 }
 .payments_container {
     display: flex;
     justify-content: space-between;
 }
 .payments_container h1 {
-    color: #00164A;
+    color: #000000;
     font-size: 2.5rem;
     font-weight: 550;
 }
@@ -112,6 +112,7 @@
     width: 27rem;
     position: relative;
     top: -2rem;
+    text-align: left;
 }
 .payments_app p {
     font-size: 1rem;
